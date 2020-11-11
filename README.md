@@ -15,19 +15,19 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/christianbetancourt4/">
+  <a href="https://www.instagram.com/christianbetancourt4/" target="_blank">
     <img
       src="https://img.shields.io/badge/Instagram-color?style=for-the-badge&logo=Instagram&color=%23E4405F&logoColor=white"
       alt="Instagram"
     />
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/christian-camilo-b-279894104">
+  <a href="https://www.linkedin.com/in/christian-camilo-b-279894104" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-color?style=for-the-badge&logo=LinkedIn&color=%230077B5&logoColor=white"
       alt="LinkedIn"
     />
   </a>&nbsp;
-  <a href="mailto:criistian-15@hotmail.com">
+  <a href="mailto:criistian-15@hotmail.com" target="_blank">
     <img
       src="https://img.shields.io/badge/Mail-color?style=for-the-badge&logo=Microsoft%20Outlook&color=%230078D4&logoColor=white"
       alt="Hotmail"
@@ -90,3 +90,22 @@
     alt="Amazon Alexa Skills"
   />&nbsp;
 </p>
+
+
+---
+<br>
+
+<a href="https://github.com/criistian14" target="_blank">
+  <img
+    align="left"
+    height="180em"
+    alt="criistian14"
+    src="https://github-readme-stats.vercel.app/api?username=criistian14&count_private=true&show_icons=true&theme=dracula&hide_border=true"
+  />
+  <img
+    align="left"
+    height="180em"
+    alt="criistian14"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=criistian14&theme=dracula&hide_border=true&layout=compact"
+  />
+</a>
