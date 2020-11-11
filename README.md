@@ -21,7 +21,7 @@
       alt="Instagram"
     />
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/christian-camilo-b-279894104" target="_blank">
+  <a href="https://www.linkedin.com/in/christian-camilo-b-279894104/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-color?style=for-the-badge&logo=LinkedIn&color=%230077B5&logoColor=white"
       alt="LinkedIn"
