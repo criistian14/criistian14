@@ -93,19 +93,3 @@
 
 
 ---
-<br>
-
-<a href="https://github.com/criistian14" target="_blank">
-  <img
-    align="left"
-    height="180em"
-    alt="criistian14"
-    src="https://github-readme-stats.vercel.app/api?username=criistian14&count_private=true&show_icons=true&theme=dracula&hide_border=true"
-  />
-  <img
-    align="left"
-    height="180em"
-    alt="criistian14"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=criistian14&theme=dracula&hide_border=true&layout=compact"
-  />
-</a>
