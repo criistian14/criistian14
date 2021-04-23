@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  I live in Colombia and work to Imaginamos
+  I live in Colombia and work to Quick
 </p>
 
 <p align="center">
